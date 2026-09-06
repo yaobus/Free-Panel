@@ -1,0 +1,17 @@
+# 运行时数据（首次启动自动生成，不入库）
+data/
+uploads/
+
+# 本地预览 / 测试临时产物（Chrome headless 配置、截图、脚本等）
+.preview/
+.preview_*
+
+# 测试运行时抓取的主页快照（CSRF token 每次变化，不入库）
+tests/idx-search.html
+
+# 操作系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
