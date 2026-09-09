@@ -4,7 +4,7 @@
 
 > 项目主页：[https://github.com/yaobus/Free-Panel](https://github.com/yaobus/Free-Panel)
 
-![MainPage]([https://example.com/logo.png](https://github.com/yaobus/ProjectData/blob/0a978e73734e1fcca80aa1b36a609178b48d1d9b/FreePanel/%E4%B8%BB%E9%A1%B5.png))
+![MainPage](https://github.com/yaobus/ProjectData/blob/0a978e73734e1fcca80aa1b36a609178b48d1d9b/FreePanel/%E4%B8%BB%E9%A1%B5.png)
 
 
 ## 功能特性
